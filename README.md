@@ -1,4 +1,4 @@
-# PoweBI-Project1-HR-Analytics
+# PowerBI-Project1-HR-Analytics
 
 # Project Insights/Conclusion/Summary :- 
 1) Identified key factors to reduce attrition.
